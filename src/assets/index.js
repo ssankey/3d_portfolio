@@ -61,13 +61,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
   allevents,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   movieland
 };
