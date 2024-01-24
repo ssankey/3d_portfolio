@@ -111,7 +111,7 @@ import {
   
   const experiences = [
     {
-      title: "Freelance Full stack Developer",
+      title: "Full stack Developer",
       company_name: "RV NETWORKING",
       icon: rv,
       iconBg: "#383E56",
